@@ -1,0 +1,18 @@
+
+body{
+    background-color: aliceblue;
+}
+
+main{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.slider-container{
+    height: 50vh;
+    width: 50vw;
+    background-color: black;
+    box-shadow: 0 30px 50px black, 0 0 0 10px black;
+}
